@@ -3,13 +3,13 @@ This webpage is a personal portfolio to be shown to potential employers to showc
 
 ## Installation
 To access codebase,
-  * Go to https://github.com/lizaferguson/Liza-Ferguson-Portfolio
+  * Go to https://github.com/lizaferguson/Portfolio
   * Click Code
-  * Click Download Zip or Clone onto local device by copying the link https://github.com/lizaferguson/Liza-Ferguson-Portfolio.git into gitbash/terminal
+  * Click Download Zip or Clone onto local device by copying the link https://github.com/lizaferguson/Portfolio.git into gitbash/terminal
   * Open files in preferred text editor or web browser
 
 To access deployed webpage,
-* Visit the url https://lizaferguson.github.io/Liza-Ferguson-Portfolio/
+* Visit the url https://lizaferguson.github.io/Portfolio/
 
 ## Usage
 This webpage is to provide personal and professional information. This is what the webpage should looklike upon loading. Click on the links in the navigation bar to be redirected to different pages.
