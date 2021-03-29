@@ -1,0 +1,54 @@
+:root {
+    --pink: #FEF3F7;
+    --darkerpink: #E8D3D9;
+    --dark: #6C273B;
+    --bg: #EEEDED;
+    --hover: #D50643;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: var(--dark);
+    background-color: var(--darkerpink);
+}
+
+.jumbotron {
+    font-family: 'Kiwi Maru', serif;
+    background-color: var(--pink);
+}
+
+.navbar {
+    background-color: var(--darkerpink);
+}
+
+nav a {
+    color: var(--dark);
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: var(--hover);
+}
+
+.text-block {
+    padding: 45px;
+}
+
+.footer {
+    text-align: center;
+    padding: 40px;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+footer {
+    color: var(--dark);
+}
+
+div p {
+    font-size: 20px;
+}

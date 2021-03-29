@@ -1,0 +1,57 @@
+:root {
+    --pink: #FEF3F7;
+    --darkerpink: #E8D3D9;
+    --dark: #6C273B;
+    --bg: #EEEDED;
+    --hover: #D50643;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--darkerpink);
+}
+
+.jumbotron {
+    font-family: 'Kiwi Maru', serif;
+    background-color: var(--pink);
+}
+
+nav {
+    background-color: var(--darkerpink);
+    color: var(--dark);
+    text-decoration: none;
+}
+
+nav a {
+    color: var(--dark);
+    font-weight: bold;
+    padding: 10px;
+}
+
+nav a:hover {
+    color: var(--hover);
+}
+
+
+h2 {
+    padding: 20px;
+}
+
+h3 {
+    padding: 20px;
+    color: var(--dark);
+}
+
+.about {
+    padding: 30px;
+}
+
+.footer {
+    text-align: center;
+    padding: 40px;
+}
+
+footer {
+    color: var(--dark);
+}
+

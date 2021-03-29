@@ -1,0 +1,59 @@
+:root {
+    --pink: #FEF3F7;
+    --darkerpink: #E8D3D9;
+    --dark: #6C273B;
+    --hover: #D50643;
+    --bg: #EEEDED;
+}
+
+p {
+    text-align: left;
+    justify-content: center;
+}
+
+h3 {
+    text-align: left;
+    padding: 20px;
+}
+
+body {
+    font-family: 'Kiwi Maru', serif;
+    color: var(--dark);
+    background-color: var(--darkerpink);
+}
+
+.jumbotron {
+    background-color: var(--pink);
+}
+
+.navbar {
+    background-color: var(--darkerpink);
+}
+
+nav a {
+    color: var(--dark);
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: var(--hover);
+}
+
+.footer {
+    text-align: center;
+    padding: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: #5D2A39;
+}
+
+a:hover {
+    color: var(--hover);
+}
+
+footer {
+    color: var(--dark);
+}
+
