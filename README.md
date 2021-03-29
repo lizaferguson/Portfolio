@@ -12,8 +12,8 @@ To access deployed webpage,
 * Visit the url https://lizaferguson.github.io/Liza-Ferguson-Portfolio/
 
 ## Usage
-This webpage is to provide personal and professional information. This is what the webpage should looklike upon loading.
-![example 1](/assets/images/Screen Shot 2021-03-29 at 3.55.25 PM.png)
+This webpage is to provide personal and professional information. This is what the webpage should looklike upon loading. Click on the links in the navigation bar to be redirected to different pages.
+![example 1](./assets/images/screenshot.png)
 
 ## Credits
 Consulted code from https://www.w3schools.com/default.asp
